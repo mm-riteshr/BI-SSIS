@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>Integration Services Project Test</Name>
-    <LastWriteTime>2022-06-13T05:41:57.0608396Z</LastWriteTime>
+    <LastWriteTime>2022-06-13T10:10:47.7854596Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -59,6 +59,11 @@
     <ProjectBuildItemInfo>
       <Name>Package8.dtsx</Name>
       <LastWriteTime>2022-06-13T05:41:57.0189522Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>ErrorHandling.dtsx</Name>
+      <LastWriteTime>2022-06-13T11:47:19.0395414Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
